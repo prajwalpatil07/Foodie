@@ -18,7 +18,7 @@
 - Different dev and prod bundles
 
 
-# Namaste Food
+# Foodie
 
 /* Components of Our Food-Order App
  * Header
