@@ -1,0 +1,35 @@
+{
+  "name": "Foodie",
+  "version": "1.0.0",
+  "description": "This is Food Delivery app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "akshay",
+    "saini"
+  ],
+  "author": "Prajwal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.33",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.21.3"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
